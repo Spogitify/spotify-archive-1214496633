@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Dance, Dance",
+    "artist": "Fall Out Boy",
+    "id": "0a7BloCiNzLDD9qSQHh5m7",
+    "added_at": "2017-07-24T02:01:38Z",
+    "added_by": "alexellis96",
+    "length_seconds": 180
+  },
+  {
+    "name": "Ocean Avenue",
+    "artist": "Yellowcard",
+    "id": "23oxJmDc1V9uLUSmN2LIvx",
+    "added_at": "2017-07-24T02:02:14Z",
+    "added_by": "alexellis96",
+    "length_seconds": 198
+  },
+  {
+    "name": "Shake It",
+    "artist": "Metro Station",
+    "id": "5619Ojc6t9evEEs3B7Drhe",
+    "added_at": "2017-07-24T02:03:02Z",
+    "added_by": "alexellis96",
+    "length_seconds": 179
+  },
+  {
+    "name": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "id": "4w1lzcaoZ1IC2K5TwjalRP",
+    "added_at": "2017-07-28T01:17:12Z",
+    "added_by": "alexellis96",
+    "length_seconds": 237
+  },
+  {
+    "name": "Wonderwall (Remastered)",
+    "artist": "Oasis",
+    "id": "5wj4E6IsrVtn8IBJQOd0Cl",
+    "added_at": "2017-07-28T01:17:21Z",
+    "added_by": "alexellis96",
+    "length_seconds": 258
+  },
+  {
+    "name": "I Write Sins Not Tragedies",
+    "artist": "Panic! At The Disco",
+    "id": "5cY8y2XgOfkAh4kSWLFKkz",
+    "added_at": "2017-09-05T19:32:15Z",
+    "added_by": "alexellis96",
+    "length_seconds": 185
+  },
+  {
+    "name": "All The Small Things",
+    "artist": "blink-182",
+    "id": "7yCPwWs66K8Ba5lFuU2bcx",
+    "added_at": "2017-09-05T19:32:16Z",
+    "added_by": "alexellis96",
+    "length_seconds": 168
+  },
+  {
+    "name": "The Anthem",
+    "artist": "Good Charlotte",
+    "id": "0BRHnOFm6sjxN1i9LJrUDu",
+    "added_at": "2017-09-05T19:32:18Z",
+    "added_by": "alexellis96",
+    "length_seconds": 175
+  },
+  {
+    "name": "Lifestyles of the Rich & Famous",
+    "artist": "Good Charlotte",
+    "id": "2g2a5kDeZexbUTD8abcvm6",
+    "added_at": "2017-09-05T19:32:32Z",
+    "added_by": "alexellis96",
+    "length_seconds": 190
+  },
+  {
+    "name": "Move Along",
+    "artist": "The All-American Rejects",
+    "id": "58HpsDKeYoLtNhXFQyQmz5",
+    "added_at": "2017-09-05T19:32:34Z",
+    "added_by": "alexellis96",
+    "length_seconds": 238
+  },
+  {
+    "name": "Somebody Told Me",
+    "artist": "The Killers",
+    "id": "3twNvmDtFQtAd5gMKedhLD",
+    "added_at": "2017-09-05T19:32:43Z",
+    "added_by": "alexellis96",
+    "length_seconds": 197
+  },
+  {
+    "name": "This Ain't A Scene, It's An Arms Race",
+    "artist": "Fall Out Boy",
+    "id": "1oagRT7LfpVlNJN6FSZDGp",
+    "added_at": "2017-09-05T19:32:44Z",
+    "added_by": "alexellis96",
+    "length_seconds": 212
+  },
+  {
+    "name": "The Great Escape",
+    "artist": "BOYS LIKE GIRLS",
+    "id": "6GIrIt2M39wEGwjCQjGChX",
+    "added_at": "2017-09-29T01:11:35Z",
+    "added_by": "alexellis96",
+    "length_seconds": 206
+  },
+  {
+    "name": "1985",
+    "artist": "Bowling For Soup",
+    "id": "5oQcOu1omDykbIPSdSQQNJ",
+    "added_at": "2017-09-29T01:11:37Z",
+    "added_by": "alexellis96",
+    "length_seconds": 193
+  },
+  {
+    "name": "Check Yes, Juliet",
+    "artist": "We The Kings",
+    "id": "5Vac8co5QPblcdlWbHSFsE",
+    "added_at": "2017-09-29T01:11:41Z",
+    "added_by": "alexellis96",
+    "length_seconds": 218
+  },
+  {
+    "name": "Welcome to the Black Parade",
+    "artist": "My Chemical Romance",
+    "id": "5wQnmLuC1W7ATsArWACrgW",
+    "added_at": "2017-09-29T01:11:46Z",
+    "added_by": "alexellis96",
+    "length_seconds": 311
+  },
+  {
+    "name": "Dirty Little Secret",
+    "artist": "The All-American Rejects",
+    "id": "5lDriBxJd22IhOH9zTcFrV",
+    "added_at": "2017-09-29T01:11:48Z",
+    "added_by": "alexellis96",
+    "length_seconds": 193
+  },
+  {
+    "name": "What's My Age Again?",
+    "artist": "blink-182",
+    "id": "1hWrl3T1kIH5b9zRHLfCOn",
+    "added_at": "2017-09-29T01:11:53Z",
+    "added_by": "alexellis96",
+    "length_seconds": 148
+  },
+  {
+    "name": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy",
+    "id": "4zjFqN9fXAw91GNgJOCYX6",
+    "added_at": "2017-09-29T01:11:59Z",
+    "added_by": "alexellis96",
+    "length_seconds": 229
+  },
+  {
+    "name": "American Idiot",
+    "artist": "Green Day",
+    "id": "6nTiIhLmQ3FWhvrGafw2zj",
+    "added_at": "2017-09-29T01:12:01Z",
+    "added_by": "alexellis96",
+    "length_seconds": 176
+  },
+  {
+    "name": "Welcome to My Life",
+    "artist": "Simple Plan",
+    "id": "714Lw0m2SmCEhKSPw0Dn8J",
+    "added_at": "2017-09-29T01:12:03Z",
+    "added_by": "alexellis96",
+    "length_seconds": 206
+  },
+  {
+    "name": "Gives You Hell",
+    "artist": "The All-American Rejects",
+    "id": "6ihL9TjfRjadfEePzXXyVF",
+    "added_at": "2017-09-29T01:12:08Z",
+    "added_by": "alexellis96",
+    "length_seconds": 213
+  },
+  {
+    "name": "Thnks fr th Mmrs",
+    "artist": "Fall Out Boy",
+    "id": "3Zwu2K0Qa5sT6teCCHPShP",
+    "added_at": "2017-09-29T01:12:09Z",
+    "added_by": "alexellis96",
+    "length_seconds": 203
+  },
+  {
+    "name": "Teenagers",
+    "artist": "My Chemical Romance",
+    "id": "7j31rVgGX9Q2blT92VBEA0",
+    "added_at": "2017-09-29T01:12:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 161
+  },
+  {
+    "name": "Stacy's Mom",
+    "artist": "Fountains Of Wayne",
+    "id": "27L8sESb3KR79asDUBu8nW",
+    "added_at": "2017-09-29T01:12:26Z",
+    "added_by": "alexellis96",
+    "length_seconds": 197
+  },
+  {
+    "name": "Nine in the Afternoon - Single Mix",
+    "artist": "Panic! At The Disco",
+    "id": "1S30kHvkkdMkcuCTGSgS41",
+    "added_at": "2017-09-29T01:12:34Z",
+    "added_by": "alexellis96",
+    "length_seconds": 191
+  },
+  {
+    "name": "Just the Girl",
+    "artist": "The Click Five",
+    "id": "1JURww012QnWAw0zZXi6Aa",
+    "added_at": "2017-09-29T01:12:38Z",
+    "added_by": "alexellis96",
+    "length_seconds": 234
+  },
+  {
+    "name": "It Ends Tonight",
+    "artist": "The All-American Rejects",
+    "id": "1FMHNVeJ9s1x1l1WlaRs2I",
+    "added_at": "2017-09-29T01:12:43Z",
+    "added_by": "alexellis96",
+    "length_seconds": 244
+  },
+  {
+    "name": "You're Gonna Go Far, Kid",
+    "artist": "The Offspring",
+    "id": "6TfBA04WJ3X1d1wXhaCFVT",
+    "added_at": "2017-09-29T01:13:02Z",
+    "added_by": "alexellis96",
+    "length_seconds": 177
+  },
+  {
+    "name": "The Kids Aren't Alright",
+    "artist": "The Offspring",
+    "id": "4EchqUKQ3qAQuRNKmeIpnf",
+    "added_at": "2017-09-29T01:16:42Z",
+    "added_by": "alexellis96",
+    "length_seconds": 180
+  },
+  {
+    "name": "In Too Deep",
+    "artist": "Sum 41",
+    "id": "1HNE2PX70ztbEl6MLxrpNL",
+    "added_at": "2017-09-29T01:21:18Z",
+    "added_by": "alexellis96",
+    "length_seconds": 207
+  },
+  {
+    "name": "Fat Lip",
+    "artist": "Sum 41",
+    "id": "4KacUpvbA3Mfo05gttTjhN",
+    "added_at": "2017-09-29T01:21:23Z",
+    "added_by": "alexellis96",
+    "length_seconds": 178
+  },
+  {
+    "name": "Franco Un-American",
+    "artist": "NOFX",
+    "id": "180jsAPdTdsP31LyuYdGan",
+    "added_at": "2017-09-29T01:27:42Z",
+    "added_by": "alexellis96",
+    "length_seconds": 145
+  },
+  {
+    "name": "Holiday / Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "id": "0MsrWnxQZxPAcov7c74sSo",
+    "added_at": "2017-09-29T01:31:22Z",
+    "added_by": "alexellis96",
+    "length_seconds": 493
+  },
+  {
+    "name": "Sunny Hours",
+    "artist": "Long Beach Dub Allstars, will.i.am",
+    "id": "4BLyDLLnsQVvoQpyAVt83t",
+    "added_at": "2017-09-29T01:40:31Z",
+    "added_by": "alexellis96",
+    "length_seconds": 238
+  },
+  {
+    "name": "C'Mon",
+    "artist": "The Soft Pack",
+    "id": "1q84D8JILKHYYa1ibPdhFE",
+    "added_at": "2017-09-29T01:42:43Z",
+    "added_by": "alexellis96",
+    "length_seconds": 133
+  },
+  {
+    "name": "Answer To Yourself",
+    "artist": "The Soft Pack",
+    "id": "02vfRKcwC3wCtpig5gCVNm",
+    "added_at": "2017-09-29T01:44:57Z",
+    "added_by": "alexellis96",
+    "length_seconds": 200
+  },
+  {
+    "name": "There She Goes",
+    "artist": "The La's",
+    "id": "0SMkzFGJOBFDI9KfYD55L0",
+    "added_at": "2017-11-17T22:53:59Z",
+    "added_by": "alexellis96",
+    "length_seconds": 162
+  },
+  {
+    "name": "Catch Your Wave",
+    "artist": "The Click Five",
+    "id": "1MSAQKzTAJamjVjZDzlwRi",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 172
+  },
+  {
+    "name": "Move Along",
+    "artist": "The All-American Rejects",
+    "id": "2l57cfmCnOkwNX1tky02n1",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 238
+  },
+  {
+    "name": "Girls & Boys",
+    "artist": "Good Charlotte",
+    "id": "65mxB9IWpmVo4qUjdGSxRB",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 183
+  },
+  {
+    "name": "The Great Escape",
+    "artist": "BOYS LIKE GIRLS",
+    "id": "56Tl3UgyZTqfZtvFNS31wm",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 206
+  },
+  {
+    "name": "Check Yes, Juliet",
+    "artist": "We The Kings",
+    "id": "0wVluBsVAVzBKrqspuCcwR",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 220
+  },
+  {
+    "name": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "id": "11bD1JtSjlIgKgZG2134DZ",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 267
+  },
+  {
+    "name": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy",
+    "id": "2TfSHkHiFO4gRztVIkggkE",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 229
+  },
+  {
+    "name": "I Write Sins Not Tragedies",
+    "artist": "Panic! At The Disco",
+    "id": "4bPQs0PHn4xbipzdPfn6du",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 186
+  },
+  {
+    "name": "All The Small Things",
+    "artist": "blink-182",
+    "id": "2m1hi0nfMR9vdGC8UcrnwU",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 167
+  },
+  {
+    "name": "Mr. Brightside",
+    "artist": "The Killers",
+    "id": "003vvx7Niy0yvhvHt4a68B",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 222
+  },
+  {
+    "name": "I'm Just a Kid",
+    "artist": "Simple Plan",
+    "id": "6otiaV2fagE3s8IvP6WkwG",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 198
+  },
+  {
+    "name": "What's My Age Again?",
+    "artist": "blink-182",
+    "id": "4LJhJ6DQS7NwE7UKtvcM52",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 148
+  },
+  {
+    "name": "When You Were Young",
+    "artist": "The Killers",
+    "id": "70wYA8oYHoMzhRRkARoMhU",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 220
+  },
+  {
+    "name": "Somebody Told Me",
+    "artist": "The Killers",
+    "id": "6PwjJ58I4t7Mae9xfZ9l9v",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 197
+  },
+  {
+    "name": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
+    "id": "42et6fnHCw1HIPSrdPprMl",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 268
+  },
+  {
+    "name": "Kryptonite",
+    "artist": "3 Doors Down",
+    "id": "6ZOBP3NvffbU4SZcrnt1k6",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 233
+  },
+  {
+    "name": "Here It Goes Again",
+    "artist": "OK Go",
+    "id": "1pHP4JeQV9wDx87D6qH9hD",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 179
+  },
+  {
+    "name": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "id": "6ORqU0bHbVCRjXm9AjyHyZ",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 153
+  },
+  {
+    "name": "I Melt With You",
+    "artist": "Bowling For Soup",
+    "id": "6gSy97jmK1W3UIO7tnvEXa",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 241
+  },
+  {
+    "name": "Paralyzer",
+    "artist": "Finger Eleven",
+    "id": "28IEbk5a7twNTbUEvWslUb",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 208
+  },
+  {
+    "name": "When I Come Around",
+    "artist": "Green Day",
+    "id": "1Dr1fXbc2IxaK1Mu8P8Khz",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 178
+  },
+  {
+    "name": "Photograph",
+    "artist": "Nickelback",
+    "id": "3hb2ScEVkGchcAQqrPLP0R",
+    "added_at": "2023-03-26T16:40:24Z",
+    "added_by": "alexellis96",
+    "length_seconds": 258
+  },
+  {
+    "name": "Beverly Hills",
+    "artist": "Weezer",
+    "id": "1yKu2MhpwzDXXH2tzG6xoa",
+    "added_at": "2023-03-26T16:40:54Z",
+    "added_by": "alexellis96",
+    "length_seconds": 196
+  },
+  {
+    "name": "Love Drunk",
+    "artist": "BOYS LIKE GIRLS",
+    "id": "20X9OeC606XNwEtDBOym5u",
+    "added_at": "2023-03-26T16:41:06Z",
+    "added_by": "alexellis96",
+    "length_seconds": 226
+  }
+]
