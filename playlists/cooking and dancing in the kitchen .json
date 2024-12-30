@@ -1,0 +1,762 @@
+[
+  {
+    "name": "Put Your Records On",
+    "artist": "Corinne Bailey Rae",
+    "id": "2nGFzvICaeEWjIrBrL2RAx",
+    "added_at": "2021-02-12T23:48:23Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 215
+  },
+  {
+    "name": "Play That Funky Music",
+    "artist": "Wild Cherry",
+    "id": "5uuJruktM9fMdN9Va0DUMl",
+    "added_at": "2021-02-12T23:50:19Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 300
+  },
+  {
+    "name": "Just the Two of Us (feat. Bill Withers)",
+    "artist": "Grover Washington, Jr., Bill Withers",
+    "id": "1ko2lVN0vKGUl9zrU0qSlT",
+    "added_at": "2021-02-12T23:51:11Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 438
+  },
+  {
+    "name": "Dreams - 2004 Remaster",
+    "artist": "Fleetwood Mac",
+    "id": "0ofHAoxe9vBkTCp2UQIavz",
+    "added_at": "2021-02-12T23:51:43Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 257
+  },
+  {
+    "name": "Honey, Honey",
+    "artist": "ABBA",
+    "id": "5JLRQJ8vhuIQuJblXxfVWg",
+    "added_at": "2021-02-12T23:52:45Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 176
+  },
+  {
+    "name": "Faithfully",
+    "artist": "Journey",
+    "id": "57ebBLITHpRgRKGrlbxMZS",
+    "added_at": "2021-02-12T23:53:05Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 267
+  },
+  {
+    "name": "Walking On Sunshine",
+    "artist": "Katrina & The Waves",
+    "id": "05wIrZSwuaVWhcv5FfqeH0",
+    "added_at": "2021-02-12T23:54:51Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 238
+  },
+  {
+    "name": "Waterfalls",
+    "artist": "TLC",
+    "id": "6qspW4YKycviDFjHBOaqUY",
+    "added_at": "2021-02-12T23:55:28Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 279
+  },
+  {
+    "name": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "id": "2RlgNHKcydI9sayD2Df2xp",
+    "added_at": "2021-02-12T23:57:32Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 303
+  },
+  {
+    "name": "Fat Bottomed Girls - Remastered 2011",
+    "artist": "Queen",
+    "id": "4igIYHF3B5VBxEafHauVo3",
+    "added_at": "2021-02-12T23:58:05Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 255
+  },
+  {
+    "name": "Rockin' Robin",
+    "artist": "Michael Jackson",
+    "id": "2aadUB2b4hugbdIPU8Aypk",
+    "added_at": "2021-02-12T23:59:03Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 151
+  },
+  {
+    "name": "Hold On",
+    "artist": "Wilson Phillips",
+    "id": "4VZDv8sASBS8UruUBGTFdk",
+    "added_at": "2021-02-13T00:00:20Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 266
+  },
+  {
+    "name": "Super Freak",
+    "artist": "Rick James",
+    "id": "2dCmGcEOQrMQhMMS8Vj7Ca",
+    "added_at": "2021-02-13T00:00:36Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 205
+  },
+  {
+    "name": "Dancing With Myself",
+    "artist": "Billy Idol",
+    "id": "1BY1Vd2Bt6JPOhMvsIwtVv",
+    "added_at": "2021-02-13T00:01:06Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 359
+  },
+  {
+    "name": "Waterloo",
+    "artist": "ABBA",
+    "id": "1CsuK5dlnWAkWhffeteqH3",
+    "added_at": "2021-02-13T00:01:28Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 165
+  },
+  {
+    "name": "Sir Duke",
+    "artist": "Stevie Wonder",
+    "id": "4pNiE4LCVV74vfIBaUHm1b",
+    "added_at": "2021-02-13T00:01:44Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 232
+  },
+  {
+    "name": "Respect",
+    "artist": "Aretha Franklin",
+    "id": "7s25THrKz86DM225dOYwnr",
+    "added_at": "2021-02-13T00:04:29Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 147
+  },
+  {
+    "name": "Don't You Worry 'Bout A Thing",
+    "artist": "Stevie Wonder",
+    "id": "1QvWxgZvTU0w8rlPRE5Zrv",
+    "added_at": "2021-02-13T00:05:54Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 284
+  },
+  {
+    "name": "Don't Go Breaking My Heart",
+    "artist": "Elton John, Kiki Dee",
+    "id": "7HW5WIw7ZgZORCzUxv5gW5",
+    "added_at": "2021-02-13T00:06:24Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 275
+  },
+  {
+    "name": "9 to 5",
+    "artist": "Dolly Parton",
+    "id": "4w3tQBXhn5345eUXDGBWZG",
+    "added_at": "2021-02-13T00:06:35Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 162
+  },
+  {
+    "name": "Come On Eileen - Single Edit",
+    "artist": "Dexys Midnight Runners, Kevin Rowland",
+    "id": "6nWcEzyxDozQcmxMoNJtYx",
+    "added_at": "2021-02-13T00:06:39Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 205
+  },
+  {
+    "name": "I Wanna Dance with Somebody (Who Loves Me)",
+    "artist": "Whitney Houston",
+    "id": "2tUBqZG2AbRi7Q0BIrVrEj",
+    "added_at": "2021-02-13T00:06:44Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 291
+  },
+  {
+    "name": "I Want You Back",
+    "artist": "The Jackson 5",
+    "id": "5LxvwujISqiB8vpRYv887S",
+    "added_at": "2021-02-13T00:06:55Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 176
+  },
+  {
+    "name": "You Make My Dreams (Come True)",
+    "artist": "Daryl Hall & John Oates",
+    "id": "4o6BgsqLIBViaGVbx5rbRk",
+    "added_at": "2021-02-13T00:07:09Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 190
+  },
+  {
+    "name": "Crocodile Rock",
+    "artist": "Elton John",
+    "id": "6WCeFNVAXUtNczb7lqLiZU",
+    "added_at": "2021-02-13T00:07:23Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 235
+  },
+  {
+    "name": "Ain't No Mountain High Enough",
+    "artist": "Marvin Gaye, Tammi Terrell",
+    "id": "7tqhbajSfrz2F7E1Z75ASX",
+    "added_at": "2021-02-13T00:08:07Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 151
+  },
+  {
+    "name": "This Will Be (An Everlasting Love)",
+    "artist": "Natalie Cole",
+    "id": "0PDCewmZCp0P5s00bptcdd",
+    "added_at": "2021-02-13T00:08:17Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 171
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "artist": "Toploader",
+    "id": "3Fzlg5r1IjhLk2qRw667od",
+    "added_at": "2021-02-13T00:08:20Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 232
+  },
+  {
+    "name": "I Don't Feel Like Dancin'",
+    "artist": "Scissor Sisters",
+    "id": "1q9l6c8bAzqWcvO3DM6FsR",
+    "added_at": "2021-02-13T00:11:13Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 288
+  },
+  {
+    "name": "Grace Kelly",
+    "artist": "MIKA",
+    "id": "2TdDRjNiF1HuRvnclprnce",
+    "added_at": "2021-02-13T00:13:04Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 187
+  },
+  {
+    "name": "Take Your Mama",
+    "artist": "Scissor Sisters",
+    "id": "6hy7ONYlFybtQ1bX6eoXlt",
+    "added_at": "2021-02-13T00:13:26Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 271
+  },
+  {
+    "name": "Don't Stop Believin'",
+    "artist": "Journey",
+    "id": "4bHsxqR3GMrXTxEPLuK5ue",
+    "added_at": "2021-02-13T00:13:31Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 250
+  },
+  {
+    "name": "Proud Mary",
+    "artist": "Tina Turner",
+    "id": "6gJdDnF2TzfA1WPMXuCa3x",
+    "added_at": "2021-02-13T00:13:52Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 327
+  },
+  {
+    "name": "Isn't She Lovely",
+    "artist": "Stevie Wonder",
+    "id": "373zqV0VLz9mnrSaY9kaiX",
+    "added_at": "2021-02-13T00:17:52Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 394
+  },
+  {
+    "name": "Lean on Me",
+    "artist": "Bill Withers",
+    "id": "3M8FzayQWtkvOhqMn2V4T2",
+    "added_at": "2021-02-13T00:18:16Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 258
+  },
+  {
+    "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+    "artist": "Mark Ronson, Amy Winehouse",
+    "id": "6kopmMZiyLmw7h66uXcXR7",
+    "added_at": "2021-02-13T12:39:47Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 219
+  },
+  {
+    "name": "We Are Family - 1995 Remaster",
+    "artist": "Sister Sledge",
+    "id": "5IKLwqBQG6KU6MP2zP80Nu",
+    "added_at": "2021-05-18T08:07:49Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 216
+  },
+  {
+    "name": "Uptown Girl",
+    "artist": "Billy Joel",
+    "id": "5zA8vzDGqPl2AzZkEYQGKh",
+    "added_at": "2021-05-18T08:07:54Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 197
+  },
+  {
+    "name": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "id": "62AuGbAkt8Ox2IrFFb8GKV",
+    "added_at": "2021-05-18T08:08:51Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 203
+  },
+  {
+    "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+    "artist": "Four Tops",
+    "id": "6b6IMqP565TbtFFZg9iFf3",
+    "added_at": "2021-06-03T12:01:56Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 160
+  },
+  {
+    "name": "You Make My Dreams Come True",
+    "artist": "Heaven is Shining",
+    "id": "01OJCoQIhg9hibDT4kzmXs",
+    "added_at": "2021-06-03T12:02:12Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 177
+  },
+  {
+    "name": "Bohemian Rhapsody - Remastered 2011",
+    "artist": "Queen",
+    "id": "4u7EnebtmKWzUH433cf5Qv",
+    "added_at": "2021-06-03T12:04:22Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 354
+  },
+  {
+    "name": "Take A Chance On Me",
+    "artist": "ABBA",
+    "id": "5BckPAYcKEJuYs1eV1BHHe",
+    "added_at": "2021-06-03T12:12:01Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 243
+  },
+  {
+    "name": "Come On Eileen",
+    "artist": "Dexys Midnight Runners",
+    "id": "3MrWxJaD2AT0W9DjWF64Vm",
+    "added_at": "2021-06-08T09:45:34Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 287
+  },
+  {
+    "name": "Jump (Original Mix)",
+    "artist": "The Pointer Sisters",
+    "id": "1kIu9zpYtWjgrLlsactlna",
+    "added_at": "2021-06-08T09:49:57Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 262
+  },
+  {
+    "name": "Dancing In The Street",
+    "artist": "Martha Reeves & The Vandellas",
+    "id": "6rLqjzGV5VMLDWEnuUqi8q",
+    "added_at": "2021-06-08T09:52:02Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 165
+  },
+  {
+    "name": "Centerfold",
+    "artist": "The J. Geils Band",
+    "id": "1ynmMEK1fkyiZ6Z6F3ThEt",
+    "added_at": "2021-06-08T09:56:09Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 216
+  },
+  {
+    "name": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "id": "4y1LsJpmMti1PfRQV9AWWe",
+    "added_at": "2021-06-08T09:56:12Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 238
+  },
+  {
+    "name": "Kiss",
+    "artist": "Prince",
+    "id": "62LJFaYihsdVrrkgUOJC05",
+    "added_at": "2021-06-08T09:56:16Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 226
+  },
+  {
+    "name": "Lollipop",
+    "artist": "MIKA",
+    "id": "2c4YggJQomYXSq4qLXrn4M",
+    "added_at": "2021-06-08T16:04:33Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 183
+  },
+  {
+    "name": "Mamma Mia",
+    "artist": "ABBA",
+    "id": "2TxCwUlqaOH3TIyJqGgR91",
+    "added_at": "2021-06-08T17:03:41Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 213
+  },
+  {
+    "name": "It's Raining Men - Single Version",
+    "artist": "The Weather Girls",
+    "id": "5kErKPSPv8EgdZ04R3el1K",
+    "added_at": "2021-06-08T17:04:01Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 212
+  },
+  {
+    "name": "I'm Coming Out",
+    "artist": "Diana Ross",
+    "id": "0ew27xRdxSexrWbODuLfeE",
+    "added_at": "2021-06-08T17:30:42Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 325
+  },
+  {
+    "name": "More Than A Woman",
+    "artist": "Bee Gees",
+    "id": "2cX2coZS1PYBfPs8wgbdWE",
+    "added_at": "2021-07-17T10:00:25Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 196
+  },
+  {
+    "name": "How Will I Know",
+    "artist": "Whitney Houston",
+    "id": "5tdKaKLnC4SgtDZ6RlWeal",
+    "added_at": "2021-07-17T10:02:06Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 269
+  },
+  {
+    "name": "My Life",
+    "artist": "Billy Joel",
+    "id": "4ZoBC5MhSEzuknIgAkBaoT",
+    "added_at": "2021-07-17T10:02:30Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 284
+  },
+  {
+    "name": "Do You Believe in Magic?",
+    "artist": "The Lovin' Spoonful",
+    "id": "1udKn1oNKYQSQ9OmiIWCMu",
+    "added_at": "2021-07-17T10:02:42Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 125
+  },
+  {
+    "name": "Dancing Queen",
+    "artist": "ABBA",
+    "id": "0GjEhVFGZW8afUYGChu3Rr",
+    "added_at": "2021-07-17T10:20:40Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 230
+  },
+  {
+    "name": "Cecilia",
+    "artist": "Simon & Garfunkel",
+    "id": "6QhXQOpyYvbpdbyjgAqKdY",
+    "added_at": "2021-07-17T10:20:51Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 174
+  },
+  {
+    "name": "I'm Still Standing",
+    "artist": "Elton John",
+    "id": "1jDJFeK9x3OZboIAHsY9k2",
+    "added_at": "2021-07-17T10:21:16Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 183
+  },
+  {
+    "name": "Crazy Little Thing Called Love - Remastered 2011",
+    "artist": "Queen",
+    "id": "6xdLJrVj4vIXwhuG8TMopk",
+    "added_at": "2021-07-17T10:21:24Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 163
+  },
+  {
+    "name": "Zanzibar",
+    "artist": "Billy Joel",
+    "id": "70Znjq5VPKFrwlB7O26SWT",
+    "added_at": "2021-07-17T10:22:37Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 310
+  },
+  {
+    "name": "Bennie And The Jets - Remastered 2014",
+    "artist": "Elton John",
+    "id": "5Wj1rJnCLpMHdLaxsFtJLs",
+    "added_at": "2021-07-17T10:22:47Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 322
+  },
+  {
+    "name": "L-O-V-E",
+    "artist": "Nat King Cole",
+    "id": "4QxDOjgpYtQDxxbWPuEJOy",
+    "added_at": "2021-07-21T09:56:05Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 155
+  },
+  {
+    "name": "Everybody Wants To Rule The World",
+    "artist": "Tears For Fears",
+    "id": "4RvWPyQ5RL0ao9LPZeSouE",
+    "added_at": "2021-07-21T09:59:20Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 251
+  },
+  {
+    "name": "Young Hearts Run Free",
+    "artist": "Candi Staton",
+    "id": "3MFa9idQuY4iJLWsZl3tIQ",
+    "added_at": "2021-07-24T09:51:10Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 248
+  },
+  {
+    "name": "Stumblin' In",
+    "artist": "Suzi Quatro, Chris Norman",
+    "id": "2NKZe36oAGEpBx26OoBFLj",
+    "added_at": "2021-07-24T09:55:03Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 239
+  },
+  {
+    "name": "Wouldn't It Be Nice",
+    "artist": "The Beach Boys",
+    "id": "6VojZJpMyuKClbwyilWlQj",
+    "added_at": "2021-08-22T22:17:21Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 153
+  },
+  {
+    "name": "I Got You (I Feel Good)",
+    "artist": "James Brown & The Famous Flames",
+    "id": "4ulUxJwGJeCkthwblfTN0j",
+    "added_at": "2021-08-22T22:17:31Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 166
+  },
+  {
+    "name": "Respect",
+    "artist": "Aretha Franklin",
+    "id": "1DzKS1j1XiKJ5HN9bnFGO0",
+    "added_at": "2021-08-22T22:17:47Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 148
+  },
+  {
+    "name": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "id": "5GGVL37gRgOMEAVGSP5O71",
+    "added_at": "2021-09-05T18:46:39Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 198
+  },
+  {
+    "name": "You Can't Hurry Love",
+    "artist": "The Supremes",
+    "id": "1OppEieGNdItZbE14gLBEv",
+    "added_at": "2021-12-08T19:49:20Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 167
+  },
+  {
+    "name": "That's Life",
+    "artist": "Frank Sinatra",
+    "id": "4FmCUATNIarCQh72JYdvnm",
+    "added_at": "2021-12-08T21:59:03Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 187
+  },
+  {
+    "name": "Could It Be I'm Falling in Love",
+    "artist": "The Spinners",
+    "id": "5i0urffBRKl09GSX2Jhdeh",
+    "added_at": "2021-12-21T20:26:05Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 249
+  },
+  {
+    "name": "Rich Girl",
+    "artist": "Daryl Hall & John Oates",
+    "id": "0qRR9d89hIS0MHRkQ0ejxX",
+    "added_at": "2021-12-30T17:45:18Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 142
+  },
+  {
+    "name": "Son Of A Preacher Man",
+    "artist": "Dusty Springfield",
+    "id": "6ek9SiEj5a65WIs2EV7qiM",
+    "added_at": "2022-01-04T17:32:14Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 148
+  },
+  {
+    "name": "You Make Me Feel Like Dancing",
+    "artist": "Leo Sayer",
+    "id": "3DZ11M7LSpVQzYHnFx3i95",
+    "added_at": "2022-01-07T17:35:57Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 221
+  },
+  {
+    "name": "Wishin' And Hopin'",
+    "artist": "Dusty Springfield",
+    "id": "1UBcwKIAUHo7BYAvae6yeA",
+    "added_at": "2022-01-07T17:37:38Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 176
+  },
+  {
+    "name": "New Shoes",
+    "artist": "Paolo Nutini",
+    "id": "265Anh9hGoozFigjUVLUeD",
+    "added_at": "2022-01-19T15:40:00Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 203
+  },
+  {
+    "name": "He's Fine",
+    "artist": "The Secret Sisters",
+    "id": "34iHUnhp0sZXdnpQLP43PI",
+    "added_at": "2022-01-19T15:40:16Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 223
+  },
+  {
+    "name": "Kung Fu Fighting",
+    "artist": "Carl Douglas",
+    "id": "40NRm1ZLvZpUSCUXAGGZ8J",
+    "added_at": "2022-02-07T14:40:03Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 197
+  },
+  {
+    "name": "The Boys Are Back In Town",
+    "artist": "Thin Lizzy",
+    "id": "4QEbXYWpDDWHzXNINdZlzW",
+    "added_at": "2022-07-01T17:26:02Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 263
+  },
+  {
+    "name": "Walking On Sunshine",
+    "artist": "Katrina & The Waves",
+    "id": "05wIrZSwuaVWhcv5FfqeH0",
+    "added_at": "2022-07-12T14:00:13Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 238
+  },
+  {
+    "name": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "id": "2LScqpywMqGcnum6nNaxXX",
+    "added_at": "2022-08-10T14:12:30Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 273
+  },
+  {
+    "name": "Real Wild Child (Wild One)",
+    "artist": "Iggy Pop",
+    "id": "6ZAwEE4kTdtvyE66iRhFxR",
+    "added_at": "2022-08-18T12:25:30Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 218
+  },
+  {
+    "name": "The Passenger",
+    "artist": "Iggy Pop",
+    "id": "15BQ7vEDv2LJuh8TxWIhtd",
+    "added_at": "2022-09-01T08:33:09Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 283
+  },
+  {
+    "name": "Never Ever",
+    "artist": "All Saints",
+    "id": "7ziHnshbknkpFLDW5yGBjO",
+    "added_at": "2022-11-22T14:08:30Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 387
+  },
+  {
+    "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+    "artist": "Elton John",
+    "id": "3gdewACMIVMEWVbyb8O9sY",
+    "added_at": "2024-10-01T14:31:39Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 281
+  },
+  {
+    "name": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "id": "0ikz6tENMONtK6qGkOrU3c",
+    "added_at": "2024-10-01T14:31:49Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 231
+  },
+  {
+    "name": "Escape (The Pina Colada Song)",
+    "artist": "Rupert Holmes",
+    "id": "5IMtdHjJ1OtkxbGe4zfUxQ",
+    "added_at": "2024-10-01T14:31:58Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 276
+  },
+  {
+    "name": "Sugar Sugar",
+    "artist": "The Archies",
+    "id": "6MTd61g9zq6CB1FnJydjEb",
+    "added_at": "2024-10-01T14:32:32Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 167
+  },
+  {
+    "name": "Kokomo",
+    "artist": "The Beach Boys",
+    "id": "5qHYXcVvc9xsFB2uH7GpMN",
+    "added_at": "2024-10-01T14:33:01Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 217
+  },
+  {
+    "name": "December, 1963 (Oh What a Night!)",
+    "artist": "Frankie Valli & The Four Seasons",
+    "id": "1hQFF33xi8ruavZNyovtUN",
+    "added_at": "2024-10-01T14:33:27Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 197
+  },
+  {
+    "name": "Grease - 2007 Remaster",
+    "artist": "Frankie Valli",
+    "id": "5Vrczz39CvlD3OGCa6utoA",
+    "added_at": "2024-10-01T14:33:38Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 207
+  },
+  {
+    "name": "In the Summertime",
+    "artist": "Mungo Jerry",
+    "id": "2uzlv8PjqsVvF1DhEahyhy",
+    "added_at": "2024-10-01T14:34:31Z",
+    "added_by": "4077db4yencw87jr5ne6q3n9p",
+    "length_seconds": 211
+  }
+]
